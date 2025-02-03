@@ -1,6 +1,6 @@
 set_xmakever("2.2.2")
 
-set_project("D++")
+set_project("sleep")
 set_version("1.0.0")
 
 includes("@builtin/xpack")
